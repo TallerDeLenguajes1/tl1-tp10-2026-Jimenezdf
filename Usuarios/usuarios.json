@@ -1,0 +1,42 @@
+[
+  {
+    "Name": "Leanne Graham",
+    "Email": "Sincere@april.biz",
+    "Address": {
+      "Street": "Kulas Light",
+      "City": "Gwenborough"
+    }
+  },
+  {
+    "Name": "Ervin Howell",
+    "Email": "Shanna@melissa.tv",
+    "Address": {
+      "Street": "Victor Plains",
+      "City": "Wisokyburgh"
+    }
+  },
+  {
+    "Name": "Clementine Bauch",
+    "Email": "Nathan@yesenia.net",
+    "Address": {
+      "Street": "Douglas Extension",
+      "City": "McKenziehaven"
+    }
+  },
+  {
+    "Name": "Patricia Lebsack",
+    "Email": "Julianne.OConner@kory.org",
+    "Address": {
+      "Street": "Hoeger Mall",
+      "City": "South Elvis"
+    }
+  },
+  {
+    "Name": "Chelsey Dietrich",
+    "Email": "Lucio_Hettinger@annie.ca",
+    "Address": {
+      "Street": "Skiles Walks",
+      "City": "Roscoeview"
+    }
+  }
+]
